@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihui" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihui&layout=compact" alt="most used languages" />
 </p>
